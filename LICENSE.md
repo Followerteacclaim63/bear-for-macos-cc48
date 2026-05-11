@@ -1,4 +1,4 @@
-#  
+#  vip Script for Bear for macOS - focus mode and custom themes offers the most advanced Bear for macOS script, with focus mode and custom themes. Ideal for professionals.
 
 
 
